@@ -17,8 +17,8 @@ Repositorio en [Github](https://github.com/carfesal/otfp-laravel-test/)
 7. Ahora el proyecto estara listo para pruebas.
 
 > El endpoint a atacar sera http://localhost/salary como metodo POST
-> En el root del proyecto se adjunta un ejemplo del payload a utilizar 
+> En el root del proyecto se adjunta un ejemplo del payload a utilizar en el archivo payload_example.json
 
 
-> Se debera autenticar usand Basic Auth con las credenciales **username:** admin@admin.com 
+> Se debera autenticar usand Basic Auth en la ruta mencionad con las credenciales **username:** admin@admin.com 
 > y **password:** Clave123+
